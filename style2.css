@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    /* background-image: url(https://wallpapers.com/images/hd/mortal-kombat-scorpion-in-forest-t5varcspq8thq8uq.jpg); */
+    background-image: url(https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000053757/82dc03395aaad04fe6112d41a1a716b8398852687ff919dd2fa36f81d75ac0b2);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    padding: 180px;
+}
+
+p{
+    color: white;
+    text-align: center;
+    height: 200px;
+    display: flex;
+}
+
+.container{
+    /* background-color: rgba(0, 0, 0, 0.74);
+    box-shadow: 30px;
+    border-radius: 30px;
+    height: 80px;
+    width: 60px;
+} */
